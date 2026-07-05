@@ -7,4 +7,4 @@
 
 
 select * 
-from RAW.GLOBALMART.CUSTOMER
+from RAW.GLOBALMART.ORDERS
